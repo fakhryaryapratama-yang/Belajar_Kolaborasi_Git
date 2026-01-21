@@ -1,5 +1,6 @@
 Selamat datang di Git pertama Saya
 
 Nama: Fakhry Arya Pratama
+TTL : Bekasi, 15 November 2007
 
 Terimakasih
